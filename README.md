@@ -81,3 +81,12 @@ The completed dashboard provides KPI tracking for:
 The dashboard provides a centralized and interactive way to monitor project activity, identify outstanding work, and quickly assess project status.
 
 > Note: The dashboard screenshots use a portfolio presentation of the project. Original client data and confidential information are not included in this repository.
+## Dashboard Preview
+
+### Change Project Management Dashboard
+
+![Change Project Management Dashboard](screenshots/Screenshot%202026-08-12%20171508.jpg)
+
+### Assigned Projects Dashboard
+
+![Assigned Projects Dashboard](screenshots/Screenshot%202026-08-12%20171801.jpg)
