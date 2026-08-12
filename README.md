@@ -85,8 +85,8 @@ The dashboard provides a centralized and interactive way to monitor project acti
 
 ### Change Project Management Dashboard
 
-![Change Project Management Dashboard](screenshots/Screenshot%202026-08-12%20171508.jpg)
+![Change Project Management Dashboard](screenshots/Screenshot%202026-08-12%20171801.jpg)
 
 ### Assigned Projects Dashboard
 
-![Assigned Projects Dashboard](screenshots/Screenshot%202026-08-12%20171801.jpg)
+![Assigned Projects Dashboard](screenshots/Screenshot%202026-08-12%20171508.jpg)
